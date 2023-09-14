@@ -1,1 +1,4 @@
-# vadim-ma.github.io
+## RS School
+* [CV](https://vadim-ma.github.io/rsschool-cv/)
+* [Library](https://rolling-scopes-school.github.io/vadim-ma-JSFEPRESCHOOL2023Q2/library/)
+* [cssMemeSlider](https://vadim-ma.github.io/cssMemeSlider/cssMemeSlider/)
